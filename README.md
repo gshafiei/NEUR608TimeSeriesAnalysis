@@ -12,7 +12,7 @@ If you want to use Google Colab to run the demo:
 
 | Title        | Run on Google Colab | View using Nbviewer |
 | ------------- |:-------------:|:-----:|
-| Demo: Classification | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gshafiei/NEUR608_TimeSeriesAnalysis/blob/main/demo_seizureClassification.ipynb) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/gshafiei/NEUR608_TimeSeriesAnalysis/blob/main/demo_seizureClassification.ipynb) |
+| Demo: Classification | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gshafiei/NEUR608TimeSeriesAnalysis/blob/main/demo_seizureClassification.ipynb) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/gshafiei/NEUR608TimeSeriesAnalysis/blob/main/demo_seizureClassification.ipynb) |
 
 ## Coding resources:
 * [statsmodels time series analysis](https://www.statsmodels.org/stable/user-guide.html#time-series-analysis): a time series analysis Python toolbox.
